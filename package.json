@@ -1,6 +1,6 @@
 {
     "name": "@jigsaw/fluent-logger",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "main": "./lib/index.js",
     "scripts": {
         "test": "./node_modules/.bin/mocha -t 10000 --recursive"
