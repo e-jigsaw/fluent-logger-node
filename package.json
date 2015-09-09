@@ -1,6 +1,6 @@
 {
-    "name": "fluent-logger",
-    "version": "0.2.6",
+    "name": "@jigsaw/fluent-logger",
+    "version": "0.2.7",
     "main": "./lib/index.js",
     "scripts": {
         "test": "./node_modules/.bin/mocha -t 10000 --recursive"
@@ -15,7 +15,7 @@
         "url": "http://github.com/fluent/fluent-logger-node"
     },
     "dependencies": {
-        "msgpack": ""
+        "@jigsaw/msgpack": "^0.2.7"
     },
     "devDependencies": {
         "mocha": "",
